@@ -31,6 +31,19 @@ Example:-
 
 2. DML- Data Manipulation Language
 
+This SQL commands deal with the manipulation of data present in the database.
+    
+    INSERT - is used to insert data into a table.
+    
+    UPDATE - is used to update existing data within a table.
+    
+    DELETE - is used to delete records from a database table.
+    
+    SELECT - is used to retrieve data from the database.
+    
+
+![sql 2](https://user-images.githubusercontent.com/3311519/177563925-d70196a7-f32e-4f6b-9c30-af6fa049311b.png)
+
 
 
     
